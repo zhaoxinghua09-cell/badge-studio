@@ -1,0 +1,3 @@
+agent-name: badge-studio
+contact: https://github.com/zhaoxinghua09-cell/badge-studio
+ecosystem: https://github.com/zhaoxinghua09-cell/awesome-trusted-agents
