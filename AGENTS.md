@@ -18,3 +18,6 @@ python scripts/badge_studio.py --label LGD --score 90/100 [--color 2563eb] [--ou
 - Static analysis only; never executes external commands.
 - FAIL verdict requires human decision before proceeding.
 - No placeholders in outputs.
+
+## Skill Marketplace
+- lgd-skill-marketplace: https://github.com/zhaoxinghua09-cell/lgd-skill-marketplace — full skill catalog (enter from any skill).
